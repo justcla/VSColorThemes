@@ -53,21 +53,37 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Pkgdefs\DarkHighContrast.pkgdef">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Pkgdefs\DarkWithLightEditor.pkgdef" />
-    <Content Include="Pkgdefs\Green.pkgdef" />
-    <Content Include="Pkgdefs\LightWithDarkEditor.pkgdef" />
-    <Content Include="Pkgdefs\Purple.pkgdef" />
-    <Content Include="Pkgdefs\Red.pkgdef" />
-    <Content Include="Pkgdefs\SolarizedDark.pkgdef" />
-    <Content Include="Pkgdefs\SolarizedLight.pkgdef" />
-    <Content Include="Pkgdefs\Tan.pkgdef" />
-    <Content Include="Pkgdefs\ThemeNames.pkgdef" />
+    <Content Include="Pkgdefs\DarkWithLightEditor.pkgdef">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Pkgdefs\Green.pkgdef">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Pkgdefs\LightWithDarkEditor.pkgdef">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Pkgdefs\Purple.pkgdef">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Pkgdefs\Red.pkgdef">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Pkgdefs\SolarizedDark.pkgdef">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Pkgdefs\SolarizedLight.pkgdef">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Pkgdefs\Tan.pkgdef">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Pkgdefs\ThemeNames.pkgdef">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="Themes\DarkHighContrast.xml" />
     <Content Include="Pkgdefs\LightHighContrast.pkgdef">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <Content Include="Themes\DarkWithLightEditor.xml" />
