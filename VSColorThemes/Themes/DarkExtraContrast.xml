@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Dark (High Contrast)" GUID="{1ee2bdad-9d60-4290-8e08-7687a1e886b3}">
+  <Theme Name="Dark (Extra Contrast)" GUID="{1ee2bdad-9d60-4290-8e08-7687a1e886b3}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
