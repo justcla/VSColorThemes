@@ -1,0 +1,3 @@
+﻿VS Color Themes
+02-Sep-2017 v1.0.2 Made themes uneditable so users don't lose original version
+31-Aug-2017 v1.0.1 Intial release with 8 CTE themes plus 2 new incomplete Extra Contrast themes
